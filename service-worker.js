@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Nobel-Laureates/precache-manifest.9140902659fd2f08c1ed18cb13a026d5.js"
+  "/Nobel-Laureates/precache-manifest.a55c09d7907e920ade7408577198017e.js"
 );
 
 self.addEventListener('message', (event) => {
